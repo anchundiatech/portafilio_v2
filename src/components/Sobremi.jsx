@@ -27,7 +27,7 @@ export default function Sobremi() {
           <h1 className="title_sobremi">
             Hola{" "}
             <span className="wave" role="img" aria-label="mano saludando">
-              👋
+              🫡
             </span>
           </h1>
           <div className="description_container">
