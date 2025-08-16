@@ -28,10 +28,10 @@ const name_proyects = [
   },
   {
     title: "AluraGeek",
-    description: "A task management app to boost productivity.",
+    description: "AluraGeek es una aplicación web enfocada en la gestión de productos, diseñada para mejorar la organización y productividad. Desarrollada con React, JavaScript, CSS y consumo de una API REST, permite agregar, editar y eliminar tareas o ítems de forma intuitiva. Su interfaz responsiva y moderna ofrece una experiencia fluida tanto en escritorio como en dispositivos móviles.",
     image: AluraGeek,
-    link: "https://taskmaster.example.com",
-    repository: "https://taskmaster.example.com",
+    link: "https://challenge-alura-geek-pi.vercel.app/",
+    repository: "https://github.com/anchundiatech/challenge-AluraGeek.git",
     tecnologies: ["React", "JavaScript", "CSS", "Api Rest"],
   },
   {
@@ -40,7 +40,7 @@ const name_proyects = [
       "Diseño de interfaz moderna y minimalista para una plataforma de gestión de personas y equipos. Incluye elementos gráficos limpios y tipografía clara para transmitir organización, colaboración y productividad en un solo lugar.",
     image: Org,
     link: "https://org-kappa-hazel.vercel.app/",
-    repository: "https://taskmaster.example.com",
+    repository: "https://github.com/anchundiatech/org.git",
     tecnologies: ["React", "CSS", "HTML"],
   },
   {
@@ -49,7 +49,7 @@ const name_proyects = [
       'Tarjeta de perfil interactiva con datos de usuario, diseñada con un estilo fresco y profesional. Presenta información clave como seguidores, "likes" y fotos, destacando la identidad visual con colores vibrantes y un diseño responsivo.',
     image: Profilecard,
     link: "https://anchundiatech.github.io/profile-card/",
-    repository: "https://taskmaster.example.com",
+    repository: "https://github.com/anchundiatech/profile-card.git",
     tecnologies: ["HTML", "CSS"],
   },
 ];
