@@ -109,7 +109,7 @@ export default function Sobremi() {
             </div>
           ) : (
             <img
-              src="/src/assets/me.jpg"
+              src="@/assets/me.jpg"
               alt="Alejandro Anchundia - Desarrollador Frontend especializado en React y JavaScript"
               className={`profile_image ${
                 imageLoaded ? "profile_image--loaded" : ""
