@@ -4,6 +4,7 @@ import Reactjs from "@/assets/tecnologias/react-svgrepo-com.svg";
 import Javascript from "@/assets/tecnologias/javascript.svg";
 import Css3 from "@/assets/tecnologias/css3.svg";
 import Html from "@/assets/tecnologias/html5 .svg";
+import Me from "@/assets/me.jpg"
 
 export default function Sobremi() {
   const [imageLoaded, setImageLoaded] = useState(false);
@@ -109,7 +110,7 @@ export default function Sobremi() {
             </div>
           ) : (
             <img
-              src="@/assets/me.jpg"
+              src={Me}
               alt="Alejandro Anchundia - Desarrollador Frontend especializado en React y JavaScript"
               className={`profile_image ${
                 imageLoaded ? "profile_image--loaded" : ""
