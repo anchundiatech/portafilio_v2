@@ -1776,7 +1776,7 @@ RESPONSIVE MODE
 
 .wave {
   display: inline-block;
-  animation: wave 2.5s ease-in-out infinite;
+  animation: wave 2.5s ease-in-out;
   transform-origin: 70% 70%;
 }
 
